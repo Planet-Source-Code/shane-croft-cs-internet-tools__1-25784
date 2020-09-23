@@ -1,0 +1,4 @@
+[settings]
+startupsound=False
+shutdownsound=False
+bandwidth=True
